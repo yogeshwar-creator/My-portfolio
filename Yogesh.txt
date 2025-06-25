@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yogeshwar V - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px 40px;
+            text-align: center;
+        }
+
+        main {
+            max-width: 1000px;
+            margin: auto;
+            padding: 30px;
+            background: white;
+        }
+
+        h2 {
+            color: #0056b3;
+            border-bottom: 1px solid #ddd;
+            padding-bottom: 5px;
+        }
+
+        section {
+            margin-bottom: 40px;
+        }
+
+        ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        li::before {
+            content: "• ";
+            color: #0056b3;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: #333;
+            color: #fff;
+        }
+
+        .contact-info {
+            background: #e6f0ff;
+            padding: 15px;
+            border-left: 5px solid #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Yogeshwar V</h1>
+    <p>B.Com Graduate | VIT Vellore</p>
+</header>
+
+<main>
+
+    <section>
+        <h2>Career Objective</h2>
+        <p>To leverage my strong foundation in commerce and business principles to secure a challenging role in a reputable organization, where I can learn, grow, and contribute to the team’s success.</p>
+    </section>
+
+    <section>
+        <h2>Educational Qualifications</h2>
+        <ul>
+            <li><strong>Bachelor of Commerce (B.Com)</strong> – VIT, Vellore (CGPA: 8.06)</li>
+            <li><strong>12th Grade</strong> – Sai Guruji Matric Hr. Sec. School (97%, 2022)</li>
+            <li><strong>10th Grade</strong> – SKV Matric Hr. Sec. School (99%, 2020)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Professional Skills</h2>
+        <ul>
+            <li>MS Office (Word, Excel, PowerPoint)</li>
+            <li>Data Entry</li>
+            <li>Basic Tally</li>
+            <li>Basic DBMS</li>
+            <li>Marketing</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Personal Skills</h2>
+        <ul>
+            <li>Communication</li>
+            <li>Decision Making</li>
+            <li>Problem Solving</li>
+            <li>Accounting</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Values</h2>
+        <ul>
+            <li>Punctuality</li>
+            <li>Hardworking</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Projects</h2>
+        <ul>
+            <li>Role of Influencer Marketing on Consumer Behavior Towards Organic Cotton T-Shirts</li>
+            <li>An Analytical Study of Government Agriculture Schemes in India</li>
+            <li>A Study of Consumer Behavior and Brand Positioning in the Mobile Industry</li>
+            <li>Export Marketing of Leather Footwear: Challenges, Opportunities and Strategies for Indian Companies</li>
+            <li>Rural Marketing of Cottage Industry Products: Challenges, Opportunities and Strategies for Growth</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Certifications</h2>
+        <ul>
+            <li>HR Management and Analytics – RINEX Organization (Grade: A+)</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Languages</h2>
+        <ul>
+            <li>Tamil</li>
+            <li>English</li>
+        </ul>
+    </section>
+
+    <section class="contact-info">
+        <h2>Contact</h2>
+        <p><strong>Email:</strong> yyooggii316@gmail.com</p>
+        <p><strong>Phone:</strong> +91 73958 37690</p>
+        <p><strong>DOB:</strong> 19 July 2005</p>
+    </section>
+
+</main>
+
+<footer>
+    <p>© 2025 Yogeshwar V | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
